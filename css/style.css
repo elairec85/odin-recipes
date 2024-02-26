@@ -21,7 +21,7 @@ a {
 
 .center {
     text-align: left;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
     list-style-position: inside;
 }
